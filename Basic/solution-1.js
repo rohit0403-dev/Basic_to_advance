@@ -50,8 +50,8 @@ function sum(...num) {
 //     sum+=num[i]
 //  }
 //  console.log(sum)
-let sum=num.reduce((acc,item)=>acc+item);
-console.log(sum)
+// let sum=num.reduce((acc,item)=>acc+item);
+// console.log(sum)
 }
 
 sum(1, 2, 3, 4, 5, 6)
